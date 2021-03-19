@@ -1,4 +1,5 @@
 ---
+contentKey: blog
 title: Microsoft’s Mesh aims for mixed-reality meetings
 date: 2021-03-19T10:17:56.914Z
 ---

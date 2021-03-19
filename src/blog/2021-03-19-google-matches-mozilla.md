@@ -1,4 +1,5 @@
 ---
+contentKey: blog
 title: Google matches Mozilla
 date: 2021-03-19T10:15:32.040Z
 ---

@@ -1,4 +1,5 @@
 ---
+contentKey: blog
 title: Why Apple should let you define private places on iPhones
 date: 2021-03-19T10:19:55.279Z
 ---

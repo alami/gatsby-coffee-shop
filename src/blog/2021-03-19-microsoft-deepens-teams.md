@@ -1,4 +1,5 @@
 ---
+contentKey: blog
 title: Microsoft deepens Teams
 date: 2021-03-19T10:16:29.595Z
 ---

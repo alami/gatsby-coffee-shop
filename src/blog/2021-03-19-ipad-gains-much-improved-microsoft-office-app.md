@@ -1,4 +1,5 @@
 ---
+contentKey: blog
 title: iPad gains much-improved Microsoft Office app
 date: 2021-03-19T10:21:45.336Z
 ---

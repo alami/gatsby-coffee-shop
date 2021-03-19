@@ -1,4 +1,5 @@
 ---
+contentKey: blog
 title: Amazon switches on macOS Big Sur for AWS
 date: 2021-03-19T10:23:10.434Z
 ---

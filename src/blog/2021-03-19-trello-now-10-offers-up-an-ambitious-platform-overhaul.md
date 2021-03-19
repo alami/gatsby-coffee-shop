@@ -1,4 +1,5 @@
 ---
+contentKey: blog
 title: Trello, now 10, offers up an ambitious platform overhaul
 date: 2021-03-19T10:21:06.550Z
 ---

@@ -1,4 +1,5 @@
 ---
+contentKey: blog
 title: Microsoft adds shared channels with Teams Connect
 date: 2021-03-19T10:17:24.919Z
 ---

@@ -1,4 +1,5 @@
 ---
+contentKey: blog
 title: Instagram for preteens
 date: 2021-03-19T10:10:05.961Z
 ---

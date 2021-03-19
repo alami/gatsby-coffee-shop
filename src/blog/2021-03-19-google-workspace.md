@@ -1,4 +1,5 @@
 ---
+contentKey: blog
 title: Google Workspace
 date: 2021-03-19T10:19:29.857Z
 ---
