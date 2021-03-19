@@ -1,4 +1,5 @@
 ---
+contentKey: blog
 title: Hackers target developers to break into Apple’s garden
 date: 2021-03-19T09:35:44.346Z
 ---
